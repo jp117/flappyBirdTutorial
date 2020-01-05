@@ -217,6 +217,10 @@ def main():
 
 
 if __name__ == '__main__':
+<<<<<<< HEAD
     print('test')
     main()
 
+=======
+    main()
+>>>>>>> bb03a939729d5c66fe247d628dd0f1db6563a646
